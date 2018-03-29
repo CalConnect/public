@@ -38,6 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Links to our pages
 
-[Charters](./charter/)
-[Work in progress](./work in progress/)
+- [Charters](./charter/README.md)
+- [Work in progress](./work in progress/README.md)
 
