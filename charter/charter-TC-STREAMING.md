@@ -18,7 +18,7 @@ The TC will also document how this specification may be used as an adjunct to Ca
 ## Out of Scope 
 
 - Explicit (access control - transport specific methods will be used)
-- Account (provisioning, discovery and management)
+- Account provisioning, discovery and management
  
 ## Deliverables
 
@@ -39,7 +39,7 @@ The TC will also document how this specification may be used as an adjunct to Ca
 
 ## STREAMING Mailing List
 
-Besides participation here, there is a closed STREAMING Mailing list within CalConnect to organise the work.
+Besides participation in the committee, there is a closed STREAMING Mailing list within CalConnect to organise the work.
 
 You must be an employee of a Consortium member (or Member of M3AAWG) to be subscribed to this mailing list.
 You must be subscribed to the TC STREAMING mailing list to post messages to this mailing list.
