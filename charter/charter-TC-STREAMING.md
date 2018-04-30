@@ -48,8 +48,9 @@ You must be subscribed to the TC STREAMING mailing list to post messages to this
 
 Participation on the STREAMING mailing list will be in accordance with standard CalConnect practices and procedures.
 
-## Chair 
+## Co-Chairs 
 
 Mike Douglass (SCG)
+Peter Tam (Ribose)
 
-Please contact the Chair for more information or to join this Technical Committee. Participation in this Technical Committee will be in accordance with standard CalConnect practices and procedures.
+Please contact the Chairs for more information or to join this Technical Committee. Participation in this Technical Committee will be in accordance with standard CalConnect practices and procedures.
