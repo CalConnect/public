@@ -52,29 +52,13 @@ Initially the TC will align our existing and proposed standardization and public
 
 | Period | Milestone |
 | --- | --- |
- 
-
 | 31 August 2018 |Public Review & Comment mechanism reactivated
-
-
 | September 2018 | Document Requirements and Document Publication Processes drafts completed; review at CalConnect XLIII in KarlsRuhe |
-
-
 | September 2018 |Model co-publication agreement complete; review at CalConnect XLIII |
-
-
 | October 2018 | Document Requirements, Document Publication Processes and model co-publication agreement to Board for approval at October meeting |
-
-
 | October 2018 | IPR and Copyright policies reviewed and changes proposed to Board to support CalConnect Standards publication |
-
-
 | November 2018 |New document numbering scheme implemented; public repository for CalConnect public documents (standards, etc.) implemented |
-
-
 | January 2019 |Complete update of website to support CalConnect Standards processes |
-
-
 | TBD |Tailored co-publication agreements for ISO TC 211 and ISO TC 154 complete and adopted by both sides |
 
 
