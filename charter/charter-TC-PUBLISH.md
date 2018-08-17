@@ -67,7 +67,7 @@ Initially the TC will align our existing and proposed standardization and public
 You must be an employee of a Consortium member to be subscribed to this mailing list.
 You must be subscribed to the TC-PUBLISH mailing list to post messages to this mailing list.
 
-[tc-publish-l] (mailto:tc-publish-l@lists.calconnect.org)
+[tc-publish-l](mailto:tc-publish-l@lists.calconnect.org)
 
 Participation on the TC-PUBLISH mailing list will be in accordance with standard CalConnect practices and procedures.
 
