@@ -18,7 +18,7 @@ CalConnect has decided to again publish its own Calconnect Standards, and to co-
 TC PUBLISH will be a standing committee chartered to provide recommendations to the Technical Coordination Committee and the CalConnect Board of Directors on CalConnect’s standardization and publication processes, and to develop supporting process documents. 
 
 
-Initially the TC will align our existing and proposed standardization and publication processes with international best practices, such as the ISO standardization process, and the WTO’s Technical Barriers to Trade agreement.  The TC will work with the Technical Coordination Committee (TCC) tol develop the standardized format for CalConnect published documents, and maintain and update CalConnect administrative and process documents as necessary.
+Initially the TC will align our existing and proposed standardization and publication processes with international best practices, such as the ISO standardization process, and the WTO’s Technical Barriers to Trade agreement.  The TC will work with the Technical Coordination Committee (TCC) to develop the standardized format for CalConnect published documents, and maintain and update CalConnect administrative and process documents as necessary.
 
 
 
