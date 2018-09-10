@@ -6,10 +6,10 @@
 ## Background
 
 
-In its early days Calconnect developed a variety of published documents, such as Reports, Recommendations, Use cases and Requirements, Proposals (experimental standards), Public Review Documents and Administrative documents. CalConnect established formal processes for development, public review, approval, registration and publishing. Over time however specifications development has largely become creating draft specifications to be submitted to the IETF (or very occasionally other groups), and the process documents for our own publishing became seriously out of date.  
+In its early days Calconnect developed a variety of published documents, such as reports, recommendations, use cases and requirements, proposals (experimental standards), public review documents and administrative documents. CalConnect established formal processes for development, public review, approval, registration and publishing. Over time however specifications development has largely become creating draft specifications to be submitted to the IETF (or very occasionally other groups), and the process documents for our own publishing became seriously out of date.  
 
 
-CalConnect has decided to again publish its own Calconnect Standards, and to co-publish standards with other Standards Development Organizations such as ISO Technical Committees.  The processes supporting these and the process documents instantiating them need to be replaced and a committee created for ongoing management of the processes and publications.
+CalConnect has decided to again publish its own CalConnect Standards, and to co-publish standards with other Standards Development Organizations such as ISO Technical Committees.  The processes supporting these and the process documents instantiating them need to be replaced and a committee created for ongoing management of the processes and publications.
 
 
 ## Charter
