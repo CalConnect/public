@@ -49,6 +49,6 @@ Participation on the AUTODISCOVERY mailing list will be in accordance with stand
 
 ## Chair 
 
-Marten Gajda, dmfs [marten@dmfs.org](marten@dmfs.org)
+Marten Gajda, dmfs ([marten@dmfs.org](mailto:marten@dmfs.org))
 
 Please contact the Chair for more information or to join this Technical Committee. Participation in this Technical Committee will be in accordance with standard CalConnect practices and procedures.
