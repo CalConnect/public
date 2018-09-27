@@ -1,4 +1,4 @@
-## Links to our pages
+# public information
 
-- [Charters](./charter/README.md)
+- [Charters of our current TCs](./charter/README.md)
 - [CalConnect Major Work Projects](./work-in-progress/README.md)

@@ -1,4 +1,4 @@
-## Directory Listing
+# overview about current Technical Commitees
 
 - [TC CALSPAM](charter-TC-CALSPAM.md)
 - [TC DEVGUIDE](charter-TC-DEVGUIDE.md)
