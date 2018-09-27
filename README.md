@@ -1,4 +1,4 @@
 ## Links to our pages
 
 - [Charters](./charter/README.md)
-- [Work in progress](./work-in-progress/README.md)
+- [CalConnect Major Work Projects](./work-in-progress/README.md)
