@@ -39,10 +39,8 @@ The TC will also document how this specification may be used as an adjunct to Ca
 
 ## STREAMING Mailing List
 
-Besides participation in the committee, there is a closed STREAMING Mailing list within CalConnect to organise the work.
-
-You must be an employee of a Consortium member (or Member of M3AAWG) to be subscribed to this mailing list.
-You must be subscribed to the TC STREAMING mailing list to post messages to this mailing list.
+You must be an employee of a Consortium member to be subscribed to this mailing list.
+You must be subscribed to the TC SHARING mailing list to post messages to this mailing list.
 
 [tc-streaming-l](mailto:tc-streaming-l@lists.calconnect.org)
 
@@ -50,7 +48,7 @@ Participation on the STREAMING mailing list will be in accordance with standard 
 
 ## Co-Chairs 
 
-Mike Douglass (SCG)
+Mike Douglass (SCG) ([mikeadouglass@gmail.com](mikeadouglass@gmail.com))
 Peter Tam (Ribose)
 
 Please contact the Chairs for more information or to join this Technical Committee. Participation in this Technical Committee will be in accordance with standard CalConnect practices and procedures.
