@@ -43,9 +43,10 @@ You must be subscribed to the TC TESTER mailing list to post messages to this ma
 
 Participation on the TESTER mailing list will be in accordance with standard CalConnect practices and procedures.
 
-## Chair 
+## Co-Chairs 
 
 Ralf Becker, eGroupware ([RalfBecker@outdoor-training.de](RalfBecker@outdoor-training.de))
+
 Mike Douglass (SCG) ([mikeadouglass@gmail.com](mikeadouglass@gmail.com))
 
 Please contact the Chairs for more information or to join this Technical Committee. Participation in this Technical Committee will be in accordance with standard CalConnect practices and procedures.

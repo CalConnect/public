@@ -76,8 +76,9 @@ Participation on the TC-PUBLISH mailing list will be in accordance with standard
 ## Co-Chairs        
 
 
-Dave Thewlis (CalConnect)        
-Ronald Tse (Ribose)  
+Dave Thewlis, CalConnect ([dave.thewlis@calconnect.org](mailto:dave.thewlis@calconnect.org))        
+
+Ronald Tse, Ribose ([tse@ribose.com](mailto:tse@ribose.com))
 
 Please contact the Chairs for more information or to join this Technical Committee.  Participation in this Technical Committee will be in accordance with standard CalConnect practices and procedures.  
 

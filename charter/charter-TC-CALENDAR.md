@@ -51,6 +51,6 @@ Participation on the CALENDAR mailing list will be in accordance with standard C
 
 ## Chair 
 
-Ken Murchison, FastMail ([murch@fastmail.com](murch@fastmail.com))
+Ken Murchison, FastMail ([murch@fastmail.com](mailto:murch@fastmail.com))
 
 Please contact the Chair for more information or to join this Technical Committee. Participation in this Technical Committee will be in accordance with standard CalConnect practices and procedures.

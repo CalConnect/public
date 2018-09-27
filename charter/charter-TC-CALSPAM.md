@@ -50,6 +50,6 @@ Participation on the CALSPAM mailing list will be in accordance with standard Ca
 
 ## Chair 
 
-Thomas Schäfer (1&1)
+Thomas Schäfer, 1&1 ([thomas.schaefer@calconnect.org](mailto:thomas.schaefer@calconnect.org))
 
 Please contact the Chair for more information or to join this Technical Committee. Participation in this Technical Committee will be in accordance with standard CalConnect practices and procedures.
