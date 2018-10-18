@@ -55,4 +55,4 @@ Participation on the API mailing list will be in accordance with standard CalCon
 
 Robert Stepanek, FastMail ([rsto@fastmail.com](mailto:rsto@fastmail.com))
 
-Please contact the Chair for more information or to join this Technical Committee. Participation in this Technical Committee will be in accordance with standard CalConnect practices and procedures.
+Please contact the Chair for more information or to join this Technical Committee. 

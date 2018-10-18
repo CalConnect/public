@@ -61,4 +61,4 @@ Peter Tam, Ribose ([peter.tam@ribose.com](mailto:peter.tam@ribose.com))
 
 Ronald Tse, Ribose ([tse@ribose.com](mailto:tse@ribose.com))
 
-Please contact the Chairs for more information or to join this Technical Committee. Participation in this Technical Committee will be in accordance with standard CalConnect practices and procedures.
+Please contact the Chairs for more information or to join this Technical Committee. 

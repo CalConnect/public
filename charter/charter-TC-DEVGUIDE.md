@@ -61,6 +61,6 @@ Participation on the DEVGUIDE mailing list will be in accordance with standard C
 
 ## Chair 
 
-Thomas Schäfer, 1&1 ([thomas.schaefer@calconnect.org](mailto:thomas.schaefer@calconnect.org))
+Thomas Schäfer, 1&1 Mail&Media Development and Technology GmbH ([thomas.schaefer@1und1.de](mailto:thomas.schaefer@1und1.de))
 
-Please contact the Chair for more information or to join this Technical Committee. Participation in this Technical Committee will be in accordance with standard CalConnect practices and procedures.
+Please contact the Chair for more information or to join this Technical Committee.

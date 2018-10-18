@@ -53,4 +53,4 @@ Participation on the SHARING mailing list will be in accordance with standard Ca
 
 Mike Douglass (SCG) ([mikeadouglass@gmail.com](mikeadouglass@gmail.com))
 
-Please contact the Chairs for more information or to join this Technical Committee. Participation in this Technical Committee will be in accordance with standard CalConnect practices and procedures.
+Please contact the Chairs for more information or to join this Technical Committee. 
