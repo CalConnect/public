@@ -4,6 +4,7 @@
 - [TC AUTODISCOVERY](charter-TC-AUTODISCOVERY.md)
 - [TC CALENDAR](charter-TC-CALENDAR.md)
 - [TC CALSPAM](charter-TC-CALSPAM.md)
+- [TC DATETIME](charter-TC-DATETIME.md)
 - [TC DEVGUIDE](charter-TC-DEVGUIDE.md)
 - [TC PUBLISH](charter-TC-PUBLISH.md)
 - [TC PUSH](charter-TC-PUSH.md)
