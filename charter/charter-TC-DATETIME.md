@@ -23,9 +23,6 @@ TC-DATETIME is also tasked with maintaining the liaison relationships with exter
 
 Initially the TC will inherit the work undertaken by the Ad Hoc Committee on EU Time, which was established at CalConnect XLIII to develop an Advisory Report on the EU Summer Time Proposal, and will include follow-on activities such as the planned Time Zone Workshop at CalConnect XLIV in February 2019. The TC will also inherit the established liaison relationship with the date/time work being undertaken in ISO/TC 154 and be responsible for managing and reporting on CalConnect liaison activities with that TC. 
 
-## Out of Scope 
-
-?
  
 ## Deliverables
 
