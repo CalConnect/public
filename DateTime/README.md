@@ -69,8 +69,8 @@ IATA SSIM has - at least in the past - been used as a (comparative) source to [I
 * 2019-10 Last possible switch from DST to standard time
 
 ## Press
-https://www.stuttgarter-nachrichten.de/inhalt.eu-abschaffung-der-zeitumstellung-braucht-mehr-zeit.7a2c1f71-0dc7-4a3f-a2be-e7653f36948c.html
-https://www.heise.de/newsticker/meldung/Ewige-Sommerzeit-Widerstand-aus-EU-Staaten-gegen-Ende-der-Zeitumstellung-4184638.html
+* [2018-10-16 Stuttgarter Nachrichten](https://www.stuttgarter-nachrichten.de/inhalt.eu-abschaffung-der-zeitumstellung-braucht-mehr-zeit.7a2c1f71-0dc7-4a3f-a2be-e7653f36948c.html)
+* [2018-10-09](https://www.heise.de/newsticker/meldung/Ewige-Sommerzeit-Widerstand-aus-EU-Staaten-gegen-Ende-der-Zeitumstellung-4184638.html)
 
 
 ## General problems and issues
@@ -83,11 +83,11 @@ Keeping tz db up-to-date
 ## Operation Systems distribution
 
 ### Android Versions:
-[Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system)#Platform_usage)
-[Netzwelt](https://www.netzwelt.de/update-fahrplan/android-handys-tablets-grosse-update-fahrplan.html) (German -> device -> OS)
+* [Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system)#Platform_usage)
+* [Netzwelt](https://www.netzwelt.de/update-fahrplan/android-handys-tablets-grosse-update-fahrplan.html) (German -> device -> OS)
 
 ### Windows versions:
-[Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows#Usage_share_and_device_sales)
+* [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows#Usage_share_and_device_sales)
 
 
 
