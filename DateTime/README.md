@@ -85,6 +85,7 @@ Keeping tz db up-to-date
 ### Android Versions:
 * [Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system)#Platform_usage)
 * [Netzwelt](https://www.netzwelt.de/update-fahrplan/android-handys-tablets-grosse-update-fahrplan.html) (German -> device -> OS)
+* [Android tz Update Version >8.1](https://source.android.com/devices/tech/config/timezone-rules)
 
 ### Windows versions:
 * [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows#Usage_share_and_device_sales)
