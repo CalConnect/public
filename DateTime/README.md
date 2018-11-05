@@ -87,6 +87,10 @@ Keeping tz db up-to-date
 * [Netzwelt](https://www.netzwelt.de/update-fahrplan/android-handys-tablets-grosse-update-fahrplan.html) (German -> device -> OS)
 * [Android tz Update Version >8.1](https://source.android.com/devices/tech/config/timezone-rules)
 
+### iOS Versions:
+* [Wikipedia](https://en.wikipedia.org/wiki/IOS)
+* [Supportarticle](https://support.apple.com/en-us/HT206986) about how iOS handles timezone updates
+
 ### Windows versions:
 * [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows#Usage_share_and_device_sales)
 
