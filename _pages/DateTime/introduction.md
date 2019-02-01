@@ -36,7 +36,7 @@ The purpose is to collect and distill knowledge from the CalConnect community to
 * Creating new TZID
 
 ### Empirics
-* How often do timezones change
+* How often do timezones change: [tzdata-meta](https://tzdata-meta.timtimeonline.com/)
 
 ## Relevant timezone databases
 
