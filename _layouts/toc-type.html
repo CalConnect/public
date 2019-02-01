@@ -13,7 +13,7 @@ layout: default
             {% assign pageParents = page.parents | split:';' %}
             {% for parent in pageParents %}
                 {% assign pageParentsDetails = parent| split:':' %}
-                <li><a href="{{pageParentsDetails[1]}}">{{pageParentsDetails[0]}}</a></li>
+                <li><a href="{{site.base_url}}{{pageParentsDetails[1]}}">{{pageParentsDetails[0]}}</a></li>
             {% endfor %}
         </ol>
 
