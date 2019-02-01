@@ -27,7 +27,7 @@
                 {% if content_size == 0 %}
                     <div><span>{{ page.title }}</span></div>
                 {% else %}
-                    <a href="{{ page.url }}" class="{% if currentPageUrl contains page.url %}active{% endif %}">{{ page.title }}</a>
+                    <a href="{{site.base_url}}{{ page.url }}" class="{% if currentPageUrl contains page.url %}active{% endif %}">{{ page.title }}</a>
                 {% endif %}
             {% endif %}
 
@@ -35,7 +35,7 @@
                 {% if content_size != 0 %}
                     <a href="{{ page.url }}" class="{% if currentPageUrl contains page.url %}active{% endif %}">{{ page.title }}</a>
                 {% endif %}
-                
+
             {% endif %}
 
             {% if subpages.size > 0 %}
