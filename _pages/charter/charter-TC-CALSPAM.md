@@ -45,7 +45,7 @@ Changing RFCs - at least for now.
 | --- | --- |
 | February 2018 |	TC initiated |
 | June 2018 | draft of best practice document will be presented at CalConnect & M3AAWG conference |
-| January 2019 | document published |
+| January 2019 | [document published](https://standards.calconnect.org/csd/cc-18003.html) |
 | February 2019 | decide about TC future directions |
 
 ## CALSPAM Mailing List
