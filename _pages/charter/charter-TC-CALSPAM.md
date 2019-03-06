@@ -31,13 +31,13 @@ Changing RFCs - at least for now.
  
 ## Deliverables
 
-   * A best practices document for calendar software in a format that is engaging for developers
-   * Guidance on how mail and calendaring systems should interact with each other as joined work with M3AAWG
+* A best practices document for calendar software in a format that is engaging for developers
+* Guidance on how mail and calendaring systems should interact with each other as joined work with M3AAWG
 
 ## Begin and End Dates
 
-**Begin:** February 2018
-**End:** tbd
+* **Begin:** February 2018
+* **End:** tbd
 
 ## Milestones and Work Products
 
