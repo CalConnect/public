@@ -4,7 +4,7 @@ title: CalConnect PUBLISH Technical Committe
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order: 7
+order: 9
 ---
 
 
@@ -81,7 +81,7 @@ Participation on the TC-PUBLISH mailing list will be in accordance with standard
 
 
 
-## Co-Chairs        
+## Co-Chairs
 
 
 Dave Thewlis, CalConnect ([dave.thewlis@calconnect.org](mailto:dave.thewlis@calconnect.org))        

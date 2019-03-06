@@ -4,7 +4,7 @@ title: CalConnect STREAMING Technical Committe
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order: 10
+order: 12
 ---
 
 # CalConnect STREAMING Technical Committee

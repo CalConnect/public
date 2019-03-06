@@ -4,7 +4,7 @@ title: CalConnect DEVGUIDE Technical Committe
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order: 6
+order: 7
 ---
 
 CalConnect project to provide documentation on Calendaring and related issues.
