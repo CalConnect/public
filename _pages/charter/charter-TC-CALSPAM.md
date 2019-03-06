@@ -4,7 +4,7 @@ title: CalConnect CALSPAM Technical Committe
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order: 4
+order: 5
 ---
 
 CalConnect project to provide documentation on calendar spam best practices.
