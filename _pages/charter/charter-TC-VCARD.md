@@ -1,6 +1,6 @@
 ---
 layout: toc-type
-title: CalConnect VCARD Technical Committe
+title: CalConnect VCARD Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"

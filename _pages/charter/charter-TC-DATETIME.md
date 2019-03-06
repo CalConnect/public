@@ -1,6 +1,6 @@
 ---
 layout: toc-type
-title: CalConnect DATETIME Technical Committe
+title: CalConnect DATETIME Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"

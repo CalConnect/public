@@ -1,6 +1,6 @@
 ---
 layout: toc-type
-title: CalConnect LOCALIZATION Technical Committe
+title: CalConnect LOCALIZATION Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
