@@ -4,7 +4,7 @@ title: CalConnect TESTER Technical Committe
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order: 11
+order: 13
 ---
 
 # CalConnect TESTER Technical Committee

@@ -4,7 +4,7 @@ title: CalConnect PUBLISH Technical Committe
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order: 7
+order: 9
 ---
 
 

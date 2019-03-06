@@ -4,7 +4,7 @@ title: CalConnect LOCALIZATION Technical Committe
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order:
+order: 8
 ---
 
 # CalConnect LOCALIZATION Technical Committee
