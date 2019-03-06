@@ -4,7 +4,7 @@ title: CalConnect CALENDAR Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order: 3
+order: 4
 ---
 
 # CalConnect CALENDAR Technical Committee

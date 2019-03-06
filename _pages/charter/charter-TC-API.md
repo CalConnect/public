@@ -4,7 +4,7 @@ title: CalConnect API Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order: 1
+order: 2
 ---
 
 # CalConnect API Technical Committee

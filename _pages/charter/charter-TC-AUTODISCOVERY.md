@@ -4,7 +4,7 @@ title: CalConnect AUTODISCOVERY Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order: 2
+order: 3
 ---
 
 # CalConnect AUTODISCOVERY Technical Committee
