@@ -81,7 +81,7 @@ Participation on the TC-PUBLISH mailing list will be in accordance with standard
 
 
 
-## Co-Chairs        
+## Co-Chairs
 
 
 Dave Thewlis, CalConnect ([dave.thewlis@calconnect.org](mailto:dave.thewlis@calconnect.org))        
