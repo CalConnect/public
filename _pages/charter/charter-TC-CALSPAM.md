@@ -1,6 +1,6 @@
 ---
 layout: toc-type
-title: CalConnect CALSPAM Technical Committe
+title: CalConnect CALSPAM Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"

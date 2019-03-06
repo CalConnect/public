@@ -1,6 +1,6 @@
 ---
 layout: toc-type
-title: CalConnect CALENDAR Technical Committe
+title: CalConnect CALENDAR Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"

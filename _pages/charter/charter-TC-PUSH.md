@@ -1,6 +1,6 @@
 ---
 layout: toc-type
-title: CalConnect PUSH Technical Committe
+title: CalConnect PUSH Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"

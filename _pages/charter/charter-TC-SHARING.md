@@ -1,6 +1,6 @@
 ---
 layout: toc-type
-title: CalConnect SHARING Technical Committe
+title: CalConnect SHARING Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"

@@ -1,6 +1,6 @@
 ---
 layout: toc-type
-title: CalConnect STREAMING Technical Committe
+title: CalConnect STREAMING Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
