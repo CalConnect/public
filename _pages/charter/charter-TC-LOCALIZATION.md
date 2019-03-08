@@ -27,8 +27,8 @@ information.
 
 - localization for JSCalendar
 - vObject-i18n that introduces I18n features for vCard
-- "Transcription system code" with ISO/TC 46/WG 3
-- "Structured name standard" with ISO/TC 37/SC 4
+- Transcription systems and codes with ISO/TC 46/WG 3
+- Structured name standards with ISO/TC 37/SC 4
 - Representation of localized objects and text with ISO/TC 37/SC 5
 
 ## Begin and End Dates
