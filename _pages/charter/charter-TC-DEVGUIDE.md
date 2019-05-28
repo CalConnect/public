@@ -9,7 +9,7 @@ order: 7
 
 CalConnect project to provide documentation on Calendaring and related issues.
 
-View the site at https://devguide.calconnect.org
+View the site at [https://devguide.calconnect.org](https://devguide.calconnect.org).
 
 # CalConnect DEVGUIDE Technical Committee
 
