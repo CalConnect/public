@@ -9,7 +9,7 @@ order: 5
 
 CalConnect project to provide documentation on calendar spam best practices.
 
-# CalConnect CALSPAM Technical Committee
+# CalConnect CALSPAM Technical Committee (closed)
 
 ## Background
 
@@ -37,7 +37,7 @@ Changing RFCs - at least for now.
 ## Begin and End Dates
 
 * **Begin:** February 2018
-* **End:** tbd
+* **End:** April 2019
 
 ## Milestones and Work Products
 
@@ -47,6 +47,7 @@ Changing RFCs - at least for now.
 | June 2018 | draft of best practice document will be presented at CalConnect & M3AAWG conference |
 | January 2019 | [document published](https://standards.calconnect.org/csd/cc-18003.html) |
 | February 2019 | decide about TC future directions |
+| April 2019 | TC closed as document published and status co-publish with M3AAWG uncertain and only depending on M3AAWG moving forward. |
 
 ## CALSPAM Mailing List
 
@@ -61,6 +62,6 @@ Participation on the CALSPAM mailing list will be in accordance with standard Ca
 
 ## Chair 
 
-Thomas Schäfer, 1&1 Mail&Media Development and Technology GmbH ([thomas.schaefer@1und1.de](mailto:thomas.schaefer@1und1.de))
+Thomas Schäfer, 1&1 Mail&Media Development & Technology GmbH ([thomas.schaefer@1und1.de](mailto:thomas.schaefer@1und1.de))
 
 Please contact the Chair for more information or to join this Technical Committee.
