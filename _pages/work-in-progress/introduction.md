@@ -17,6 +17,6 @@ Abstract Calendaring API - We need a full "CRUD" (Create/Read/Update/Delete) Abs
 
 An Abstract Calendaring API from which fully compliant interfaces can be created will enable "Calendaring as a Platform" -- that is, any process running on a system can use the API to perform calendar and scheduling operations against any calendaring and scheduling implementation running on that system.
 
-[TC API](https://www.calconnect.org/about/technical-committees/tc-api)
+[TC API](/charter/charter-TC-API)
 
 ..

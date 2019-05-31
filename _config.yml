@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 twitter_username: wsdwl
 
-base_url: /
+base_url: //
 
 sass:
     style: compressed
@@ -14,7 +14,7 @@ sass:
 collections:
   pages:
     output: true
-    permalink: /:path/
+    permalink: //:path/
 
   appendixes:
     output: true
