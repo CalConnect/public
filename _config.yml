@@ -1,4 +1,4 @@
-title: CalConnect DEVGUIDE
+title: CalConnect public information
 author: Thomas Schäfer
 email: thomas.schaefer@1und1.de
 description: > # this means to ignore newlines until "baseurl:"
@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 twitter_username: wsdwl
 
-base_url: /public
+base_url: /
 
 sass:
     style: compressed
