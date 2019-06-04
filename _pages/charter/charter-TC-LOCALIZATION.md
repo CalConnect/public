@@ -25,6 +25,7 @@ information.
 
 ## Deliverables
 
+- localization for iCalendar
 - localization for JSCalendar
 - vObject-i18n that introduces I18n features for vCard
 - Transcription systems and codes with ISO/TC 46/WG 3
