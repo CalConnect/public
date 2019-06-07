@@ -56,6 +56,8 @@ We're not developing new protocol elements or APIs, this work is just describing
 | October 2017 | improve layout for better reading and navigating |
 | November 2017 | adding a section about public available validators for iCal |
 | March 2018 | adding layout for FAQ pages |
+| April 2019 | adding public.calconnect.org to our public documents server on GitHub.io |
+| June 2019 | adding local copy of how to build a CalDAV/CardDAV client |
 
 ## DEVGUIDE Mailing List
 
