@@ -72,6 +72,6 @@ Participation on the DEVGUIDE mailing list will be in accordance with standard C
 
 ## Chair 
 
-Thomas Schäfer, 1&1 Mail&Media Development and Technology GmbH ([thomas.schaefer@1und1.de](mailto:thomas.schaefer@1und1.de))
+Thomas Schäfer, individual member ([ts@web.de](mailto:ts@web.de))
 
 Please contact the Chair for more information or to join this Technical Committee.
