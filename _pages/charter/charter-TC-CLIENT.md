@@ -91,6 +91,7 @@ Participation on the TC-CLIENT mailing list will be in accordance with standard 
 ## Co-Chair 
 
 Hans-Jörg Happel, audriga ([Hans-Joerg@audriga.com](mailto:Hans-Joerg@audriga.com))
+
 Alexander Nimmervoll, individual member ([nimm@caldavsynchronizer.org](mailto:nimm@caldavsynchronizer.org))
 
 Please contact the Chair for more information or to join this Technical Committee.
