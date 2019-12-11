@@ -78,6 +78,7 @@ In previous CalConnect meetings, the following initial working topics have been 
 
 | Period | Milestone |
 | --- | --- |
+| September-December 2019 |	define key areas TC CLIENT and initiation|
 
 ## TC CLIENT Mailing List
 
