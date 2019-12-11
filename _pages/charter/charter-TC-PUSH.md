@@ -4,7 +4,7 @@ title: CalConnect PUSH Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order: 10
+order: 11
 ---
 
 # CalConnect PUSH Technical Committee

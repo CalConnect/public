@@ -4,7 +4,7 @@ title: CalConnect DATETIME Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order: 6
+order: 7
 ---
 
 # CalConnect DATETIME Technical Committee

@@ -4,7 +4,7 @@ title: CalConnect SHARING Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order: 11
+order: 12
 ---
 
 # CalConnect SHARING Technical Committee

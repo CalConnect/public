@@ -4,7 +4,7 @@ title: CalConnect VCARD Technical Committee
 parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
-order: 14
+order: 15
 ---
 
 # CalConnect VCARD Technical Committee
