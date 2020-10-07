@@ -9,7 +9,7 @@ order: 5
 
 CalConnect project to provide documentation on calendar spam best practices.
 
-# CalConnect CALSPAM Technical Committee (closed)
+# CalConnect CALSPAM Technical Committee
 
 ## Background
 
@@ -17,9 +17,11 @@ In 2016, on "Black Friday", the day following Thanksgiving Day in the United Sta
 
 Since then changes have been done to several calendaring systems to improve the handling of situations like that. CalConnect wants to offer their members in cooperation with the Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG) information about best practices to cope with calendar spam.
 
+As a result of CalConnect’s collaboration with M3AAWG, members identified the need to review, and potentially revise, the effect DMARC has on calendar interoperability between organizational domains and email transport systems.  DMARC is a mechanism to establish a level of authenticity for email, which provides a mechanism to stop some forms of abuse, such as spam.  The CALSPAM technical committee has been reopened to address this topic.
+
 ## Charter
 
-The goal of this TC is to better protect users from receiving undesired information delivered through calendar systems, which currently range from spam to phishing attacks.
+The goal of this TC is to add authenticity and trust to interoperating calendaring systems, and to better protect users from receiving undesired information delivered through calendar systems, which currently range from spam to phishing attacks.
 
 The TC aims to understand the current and potential usage of calendar systems as a vector for delivering undesired information; devise measures and best practices for developers and operators of those systems to ensure legitimate usage.
 
@@ -27,17 +29,17 @@ The TC works together with M3AAWG through CalConnect’s liaison relationship on
 
 ## Out of Scope 
 
-Changing RFCs - at least for now.
- 
+
 ## Deliverables
 
 * A best practices document for calendar software in a format that is engaging for developers
 * Guidance on how mail and calendaring systems should interact with each other as joined work with M3AAWG
+* Identifying necessary changes to RFCs.
 
 ## Begin and End Dates
 
 * **Begin:** February 2018
-* **End:** April 2019
+* **End:** Open
 
 ## Milestones and Work Products
 
@@ -62,6 +64,6 @@ Participation on the CALSPAM mailing list will be in accordance with standard Ca
 
 ## Chair 
 
-Thomas Schäfer, individual member ([ts@web.de](mailto:ts@web.de))
+Jesse Thompson, UW-Madison ([zjt+calconnect@wisc.edu](mailto:zjt+calconnect@wisc.edu))
 
 Please contact the Chair for more information or to join this Technical Committee.
