@@ -60,7 +60,7 @@ We're not developing new protocol elements or APIs, this work is just describing
 | June 2019 | adding local copy of how to build a CalDAV/CardDAV client |
 | July 2020 | FAQ with new template |
 | September 2020 | adding more content about tzdist |
-| February 2021 | adding information about JSCalendar |
+| February 2021 | adding information about jscalendar |
 | March 2021 | adding iMIP / calspam content |
 
 ## DEVGUIDE Mailing List
