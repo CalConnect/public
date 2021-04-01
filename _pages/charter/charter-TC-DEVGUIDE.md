@@ -58,6 +58,10 @@ We're not developing new protocol elements or APIs, this work is just describing
 | March 2018 | adding layout for FAQ pages |
 | April 2019 | adding public.calconnect.org to our public documents server on GitHub.io |
 | June 2019 | adding local copy of how to build a CalDAV/CardDAV client |
+| July 2020 | FAQ with new template |
+| September 2020 | adding more content about tzdist |
+| February 2021 | adding information about JSCalendar |
+| March 2021 | adding iMIP / calspam content |
 
 ## DEVGUIDE Mailing List
 
