@@ -31,4 +31,4 @@ You must be an employee of a Consortium member and a Chair or Co-Chair of a Cons
 
 ## Chair 
 
-Thomas Schäfer, 1&1 Mail&Media Development and Technology GmbH ([thomas.schaefer@1und1.de](mailto:thomas.schaefer@1und1.de))
+Ken Murchison, FastMail ([murch@fastmail.com](mailto:murch@fastmail.com))
