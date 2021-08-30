@@ -1,9 +1,9 @@
 ---
 layout: toc-type
-title: Calendar Fest 2021 - Introduction
+title: Introduction
 parent: "/CalendarFest"
-mainParent: "CalendarFest"
-parents: "CalendarFest:/CalendarFest"
+mainParent: "Calendar Fest 2021"
+parents: "Calendar Fest 2021:/CalendarFest"
 order: 1
 ---
 
