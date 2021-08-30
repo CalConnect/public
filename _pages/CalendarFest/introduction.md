@@ -1,6 +1,6 @@
 ---
 layout: toc-type
-title: Exchange about interesting challenges in Calendaring
+title: Introduction
 parent: "/CalendarFest"
 mainParent: "CalendarFest"
 parents: "CalendarFest:/CalendarFest"
@@ -13,10 +13,14 @@ order: 1
 
 ## Subtitle
 
-We ar looking for
+We are looking for
 *  lkjlökö
 *  jkkjkljk
 *  jkljjl
+
+-  lkjlökö
+-  jkkjkljk
+-  jkljjl
 
 
 ## Next
