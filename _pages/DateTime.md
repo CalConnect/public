@@ -1,6 +1,6 @@
 ---
 layout: toc-type
-title: DateTime
+title: Date Time
 parent: "/"
 mainParent: "DateTime"
 order: 0
