@@ -2,8 +2,8 @@
 layout: toc-type
 title: Timezone changes knowledge base
 parent: "/DateTime"
-mainParent: "Date Time"
-parents: "Date Time:/DateTime"
+mainParent: "DateTime"
+parents: "DateTime:/DateTime"
 order: 1
 ---
 
