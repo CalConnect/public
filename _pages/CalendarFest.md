@@ -1,6 +1,6 @@
 ---
 layout: toc-type
-title: Calendar Fest 2021
+title: CalendarFest
 parent: "/"
 mainParent: "CalendarFest"
 order: 0
