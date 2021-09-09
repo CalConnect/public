@@ -37,6 +37,7 @@ Lightning Talk proposals must be submitted in PDF format. The proposal is limite
 * Novel applications of calendars
 * Calendering standards (vCard, iCal, CalDAV, CardDAV, JMAP)
 * Date/Time representations and Time zones
+* Business models for calendaring and groupware
 
 ## Program committee
 Submissions will be reviewed by the following members of the CalConnect TC-CLIENT technical committee:
