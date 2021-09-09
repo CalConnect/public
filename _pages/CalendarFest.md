@@ -6,6 +6,8 @@ mainParent: "CalendarFest"
 order: 0
 ---
 
+# CalendarFest 2021
+
 CalendarFest is a novel (virtual) event, which wants to let users and developers of (electronic) calendar applications, servers and related groupware systems share experiences and discuss novel ideas. 
 
 CalendarFest will take place **18th of October**, 02:30h PM UTC virtually via Zoom, and is held in conjunction with the [CalConnect virtual conference](https://www.calconnect.org/events/calconnect-virtual-conference-autumn-2021).
@@ -38,9 +40,9 @@ Lightning Talk proposals must be submitted in PDF format. The proposal is limite
 
 ## Program committee
 Submissions will be reviewed by the following members of the CalConnect TC-CLIENT technical committee:
+* Mike Douglass
 * Hans-Jörg Happel
 * Alex Nimmervoll
-* Mike Douglass
 
 ## Timeline
 
@@ -48,6 +50,6 @@ Submissions will be reviewed by the following members of the CalConnect TC-CLIEN
 * You will receive a notification of acceptance or reject by October, 11th
 * CalendarFest will take place on October, 18th
 
-## Participation
+# Participation
 
 Participation at CalendarFest will be free for presenters of accepted talks. Other participants need to register for a small organizational fee, which also allows for participation at the  “colocated” CalConnect Virtual Conference.
