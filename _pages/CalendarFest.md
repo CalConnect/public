@@ -33,7 +33,7 @@ Lightning Talk proposals must be submitted in PDF format. The proposal is limite
 * AI in calendaring
 * Calendering and scheduling in IoT
 * Mobile calendaring
-* Calendar usability and visualization
+* Calendar visualization, user experience and usability
 * Novel applications of calendars
 * Calendering standards (vCard, iCal, CalDAV, CardDAV, JMAP)
 * Date/Time representations and Time zones
