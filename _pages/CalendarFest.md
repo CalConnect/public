@@ -31,11 +31,11 @@ Lightning Talk proposals must be submitted in PDF format. The proposal is limite
 * Calendaring Security and Privacy by Design
 * Personal information management (PIM) and groupware
 * AI in calendaring
-* Calendering and scheduling in IoT
+* Calendaring and scheduling in IoT
 * Mobile calendaring
 * Calendar visualization, user experience and usability
 * Novel applications of calendars
-* Calendering standards (vCard, iCal, CalDAV, CardDAV, JMAP)
+* Calendaring standards (vCard, iCal, CalDAV, CardDAV, JMAP)
 * Date/Time representations and Time zones
 * Business models for calendaring and groupware
 
