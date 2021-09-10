@@ -8,7 +8,7 @@ order: 0
 
 # CalendarFest 2021
 
-CalendarFest is a novel (virtual) event, which wants to let users and developers of (electronic) calendar applications, servers and related groupware systems share experiences and discuss novel ideas. 
+CalendarFest is a novel (virtual) event, which wants to let users and developers of (electronic) calendar applications, servers, and related groupware systems, share experiences and discuss novel ideas. 
 
 CalendarFest will take place **18th of October**, 02:30h PM UTC virtually via Zoom, and is held in conjunction with the [CalConnect virtual conference](https://www.calconnect.org/events/calconnect-virtual-conference-autumn-2021).
 
