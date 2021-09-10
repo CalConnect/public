@@ -53,4 +53,10 @@ Submissions will be reviewed by the following members of the CalConnect TC-CLIEN
 
 # Participation
 
-Participation at CalendarFest will be free for presenters of accepted talks. Other participants need to register for a small organizational fee, which also allows for participation at the  “colocated” CalConnect Virtual Conference.
+Participation at CalendarFest will be free for presenters of accepted talks. Other participants need to [register](https://www.calconnect.org/news/2021/09/02/registration-open-october-2021-calconnect-virtual-conference) for a small organizational fee, which also allows for participation at the  “colocated” CalConnect Virtual Conference.
+
+# About 
+
+CalConnect (www.calconnect.org) is a non-profit partnership between vendors and users of collaboration systems and tools, in particular calendaring and scheduling. CalConnect members convene regularly to discuss and develop standards for electronic calendering and related topics.
+
+The goal of CalendarFest, which is held in conjunction with the CalConnect Virtual Conference, is to provide an inderdisciplinary discussion space to discuss current topics in electronic calendering from different pespectives.
