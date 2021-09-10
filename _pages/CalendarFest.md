@@ -57,6 +57,6 @@ Participation at CalendarFest will be free for presenters of accepted talks. Oth
 
 # About 
 
-CalConnect (www.calconnect.org) is a non-profit partnership between vendors and users of collaboration systems and tools, in particular calendaring and scheduling. CalConnect members convene regularly to discuss and develop standards for electronic calendering and related topics.
+CalConnect (www.calconnect.org) is a non-profit partnership between vendors and users of collaboration systems and tools, in particular calendaring and scheduling. CalConnect members convene regularly to discuss and develop standards for electronic calendaring and related topics.
 
-The goal of CalendarFest, which is held in conjunction with the CalConnect Virtual Conference, is to provide an inderdisciplinary discussion space to discuss current topics in electronic calendering from different pespectives.
+The goal of CalendarFest, which is held in conjunction with the CalConnect Virtual Conference, is to provide an interdisciplinary discussion space for current topics in electronic calendaring from different perspectives.
