@@ -12,44 +12,25 @@ CalendarFest is a novel (virtual) event, which wants to let users and developers
 
 CalendarFest will take place **18th of October**, 02:30h PM UTC virtually via Zoom, and is held in conjunction with the [CalConnect virtual conference](https://www.calconnect.org/events/calconnect-virtual-conference-autumn-2021).
 
-# Lightning talks
+# Agenda 
 
-People who wish to discuss or present certain topics are invited to submit a **proposal for lightning talks**.
+Note: Agenda is still preliminary and may be subject to change!
 
-Lightning Talk presentations will be a maximum of 15-20 minutes each. Presenters may use slides, but these must be submitted to the Lightning Talks chair a few days before the presentation.
+## Introduction
+* 02:30h PM UTC Introduction and agenda
 
-## Proposals
+## Session: Novel ideas in calendaring
+* Ben Fortuna: Novel applications of iCalendar
+* (pending)
+* Short break
 
-Lightning Talk proposals must be submitted in PDF format. The proposal is limited to 1 page, 500 words max. The full proposal contains a title, an abstract (maximum 250 words) and a description where you should explain your talk in more detail. It will be helpful for reviewers to know why you are excited about the topic, and why you think others will be interested too. Outline how you plan to present your topic. The proposal also may contain a link to a website with more information.
+## Session: Calendar clients and servers
+* Johannes Raggam: The calendaring infrastructure in Plone
+* Tobias Brox: On calendar servers and caldav compatibility
 
-## Possible Topics
-
-* Enterprise calendaring
-* Public calendaring
-* Calendaring and Semantic Web/Linked Data
-* Calendar Interoperability and Migration
-* Calendaring Security and Privacy by Design
-* Personal information management (PIM) and groupware
-* AI in calendaring
-* Calendaring and scheduling in IoT
-* Mobile calendaring
-* Calendar visualization, user experience and usability
-* Novel applications of calendars
-* Calendaring standards (vCard, iCal, CalDAV, CardDAV, JMAP)
-* Date/Time representations and Time zones
-* Business models for calendaring and groupware
-
-## Program committee
-Submissions will be reviewed by the following members of the CalConnect TC-CLIENT technical committee:
-* Mike Douglass
-* Hans-Jörg Happel
-* Alex Nimmervoll
-
-## Timeline
-
-* Send your lightning talk proposal to **calendarfest@calconnect.org** until **October, 4th**
-* You will receive a notification of acceptance or reject by October, 11th
-* CalendarFest will take place on October, 18th
+## Wrap up
+* Wrap up
+* End: 13:30h
 
 # Participation
 
