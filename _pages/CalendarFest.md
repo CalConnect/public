@@ -10,26 +10,26 @@ order: 0
 
 CalendarFest is a novel (virtual) event, which wants to let users and developers of (electronic) calendar applications, servers, and related groupware systems, share experiences and discuss novel ideas. 
 
-CalendarFest will take place **18th of October**, 02:30h PM UTC virtually via Zoom, and is held in conjunction with the [CalConnect virtual conference](https://www.calconnect.org/events/calconnect-virtual-conference-autumn-2021).
+CalendarFest will take place **18th of October**, [02:30h PM UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CalendarFest&iso=20211018T1430&p1=1440&ah=3) virtually via Zoom, and is held in conjunction with the [CalConnect virtual conference](https://www.calconnect.org/events/calconnect-virtual-conference-autumn-2021).
 
 # Agenda 
 
 Note: Agenda is still preliminary and may be subject to change!
 
-## Introduction
+### Introduction
 * 02:30h PM UTC Introduction and agenda
 
-## Session: Novel ideas in calendaring
-* Ben Fortuna: Novel applications of iCalendar
+### Session: Novel ideas in calendaring
+* Ben Fortuna: Novel applications of iCalendar (how two additional properties open up the possibilities)
 * (pending)
-* Short break
 
-## Session: Calendar clients and servers
+### Short break
+
+### Session: Calendar clients and servers
 * Johannes Raggam: The calendaring infrastructure in Plone
 * Tobias Brox: On calendar servers and caldav compatibility
 
-## Wrap up
-* Wrap up
+### Wrap up
 * End: 13:30h
 
 # Participation
