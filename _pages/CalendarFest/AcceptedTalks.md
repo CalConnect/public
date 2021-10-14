@@ -26,7 +26,7 @@ Abstract: The calendaring infrastructure of the Open Source CMS Plone is built a
 
 Abstract: As the maintainer of the [python caldav (client) library](https://github.com/python-caldav/caldav) I've been writing lots of functional test code - while it has helped me finding standard compliance bugs in the library, more often than not the problem is at the server side. Actually, I haven't found a single calendar server out there that passes the full test suite. In this talk I'm going to highlight some of the most common compatilibity problems, some of the more exotic ones, some servers that seems to be devolving their standard support, and talk a bit about some of the workarounds done in the library. In the end I hope there will be time for someone in the audience to explain to me that I'm all wrong, and that all the problems are on the library side. After all, I can easily fix library side problems.
 
-*About Tobias:
+*About Tobias:  
 I learned programming from my granddad in the 80s.  
 I didn't want to work with IT since that was anyway my hobby, so I was studying physics in the arctic Norway in the 90s.  
 I realized that IT is the only thing I'm good at, so I've been working with development, system administration (DevOps) and Open Source software since 1998.  
