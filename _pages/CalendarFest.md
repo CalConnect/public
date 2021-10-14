@@ -6,7 +6,7 @@ mainParent: "CalendarFest"
 order: 0
 ---
 
-# CalendarFest 2021
+# CalendarFest 2021 📆🎉
 
 CalendarFest is a novel (virtual) event, which wants to let users and developers of (electronic) calendar applications, servers, and related groupware systems, share experiences and discuss novel ideas. 
 
