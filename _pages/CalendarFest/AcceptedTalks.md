@@ -12,7 +12,7 @@ published: true
 
 ### Ben Fortuna: Novel applications of iCalendar (how two additional properties open up the possibilities)
 
-Abstract: The introduction of STYLED-DESCRIPTION and STRUCTURED-DATA properties in recently released RFC9073 are the missing pieces that allow many more use-cases for iCalendar.
+Abstract: iCalendar has long been associated with the interoperability of calendar and groupware applications. The introduction of new iCalendar specifications (including RFC9073) could be instrumental in the adoption of interoperability standards in a broader range of applications
 
 *Ben Fortuna joined the Calendaring conversation in 2004 when he released  [iCal4](https://github.com/ical4j/ical4j), a Java implementation of iCalendar. Ben is motivated by a desire for greater interoperability with communications technologies, as he believes this is essential for the protection of fundamental human rights. Ben holds a Master of Information Systems and is currently working as a Cloud Solutions Architect for a large Australian telco.*
 
