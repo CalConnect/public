@@ -14,14 +14,13 @@ CalendarFest will take place **18th of October**, [02:30h PM UTC](https://www.ti
 
 # Agenda 
 
-Note: Agenda is still preliminary and may be subject to change!
-
 ### Introduction
-* 02:30h PM UTC Introduction and agenda
+* Event starts 02:30h PM UTC
+* Introduction and agenda
 
 ### Session: Novel ideas in calendaring
 * Ben Fortuna: Novel applications of iCalendar (how two additional properties open up the possibilities)
-* (pending)
+* Carlota Antón: Rethinking a calendar
 
 ### Short break
 
@@ -30,7 +29,8 @@ Note: Agenda is still preliminary and may be subject to change!
 * Tobias Brox: On calendar servers and caldav compatibility
 
 ### Wrap up
-* End: 13:30h
+* Discussion and Outlook
+* End of the Event: 05:30h UTC
 
 # Participation
 
