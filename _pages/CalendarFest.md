@@ -13,6 +13,7 @@ CalendarFest is a novel (virtual) event, which wants to let users and developers
 CalendarFest will take place **18th of October**, [02:30h PM UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CalendarFest&iso=20211018T1430&p1=1440&ah=3) virtually via Zoom, and is held in conjunction with the [CalConnect virtual conference](https://www.calconnect.org/events/calconnect-virtual-conference-autumn-2021).
 
 # Agenda 
+* Abstracts for the talks are available on a sub page (see sidebar)
 
 #### Introduction
 * Event starts 02:30h PM UTC
