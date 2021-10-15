@@ -16,6 +16,12 @@ Abstract: The introduction of STYLED-DESCRIPTION and STRUCTURED-DATA properties 
 
 *Ben Fortuna joined the Calendaring conversation in 2004 when he released  [iCal4](https://github.com/ical4j/ical4j), a Java implementation of iCalendar. Ben is motivated by a desire for greater interoperability with communications technologies, as he believes this is essential for the protection of fundamental human rights. Ben holds a Master of Information Systems and is currently working as a Cloud Solutions Architect for a large Australian telco.*
 
+### Carlota Antón: Rethinking a calendar
+
+Design thinking applied to improving the user experience of calendar apps. Connecting with the user and making digital calendars more tangible.
+
+*Carlota Antón is a Product Designer based in Madrid. She has 7 years of experience in the design field and is currently focused on visual and interaction design as well as accessibility.*
+
 ### Johannes Raggam: The calendaring infrastructure in Plone
 
 Abstract: The calendaring infrastructure of the Open Source CMS Plone is built around the iCalendar RFC5545 standard including recurring events and has full timezone support using the Olson database. This lightning talk gives an technical overview of our implementation, the challenges we were facing and an outlook about our future plans.
@@ -24,7 +30,7 @@ Abstract: The calendaring infrastructure of the Open Source CMS Plone is built a
 
 ### Tobias Brox: On calendar servers and caldav compatibility
 
-Abstract: As the maintainer of the [python caldav (client) library](https://github.com/python-caldav/caldav) I've been writing lots of functional test code - while it has helped me finding standard compliance bugs in the library, more often than not the problem is at the server side. Actually, I haven't found a single calendar server out there that passes the full test suite. In this talk I'm going to highlight some of the most common compatilibity problems, some of the more exotic ones, some servers that seems to be devolving their standard support, and talk a bit about some of the workarounds done in the library. In the end I hope there will be time for someone in the audience to explain to me that I'm all wrong, and that all the problems are on the library side. After all, I can easily fix library side problems.
+Abstract: As the maintainer of the [python caldav (client) library](https://github.com/python-caldav/caldav) I've been writing lots of functional test code - while it has helped me finding standard compliance bugs in the library, more often than not the problem is at the server side. Actually, I haven't found a single calendar server out there that passes the full test suite. In this talk I'm going to highlight some of the most common compatibility problems, some of the more exotic ones, some servers that seems to be devolving their standard support, and talk a bit about some of the workarounds done in the library. In the end I hope there will be time for someone in the audience to explain to me that I'm all wrong, and that all the problems are on the library side. After all, I can easily fix library side problems.
 
 *About Tobias:  
 I learned programming from my granddad in the 80s.  
