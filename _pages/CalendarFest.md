@@ -14,22 +14,22 @@ CalendarFest will take place **18th of October**, [02:30h PM UTC](https://www.ti
 
 # Agenda 
 
-### Introduction
+#### Introduction
 * Event starts 02:30h PM UTC
 * Introduction to CalendarFest and agenda
 * Short self-introduction of participants
 
-### Session: Novel ideas in calendaring
+#### Session: Novel ideas in calendaring
 * Ben Fortuna: Novel applications of iCalendar (how two additional properties open up the possibilities)
 * Carlota Antón: Rethinking a calendar
 
-### Short break
+#### Short break
 
-### Session: Calendar clients and servers
+#### Session: Calendar clients and servers
 * Johannes Raggam: The calendaring infrastructure in Plone
 * Tobias Brox: On calendar servers and caldav compatibility
 
-### Wrap up
+#### Wrap up
 * Discussion and Outlook
 * End of the Event: 05:30h UTC
 
