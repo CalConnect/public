@@ -16,7 +16,8 @@ CalendarFest will take place **18th of October**, [02:30h PM UTC](https://www.ti
 
 ### Introduction
 * Event starts 02:30h PM UTC
-* Introduction and agenda
+* Introduction to CalendarFest and agenda
+* Short self-introduction of participants
 
 ### Session: Novel ideas in calendaring
 * Ben Fortuna: Novel applications of iCalendar (how two additional properties open up the possibilities)
