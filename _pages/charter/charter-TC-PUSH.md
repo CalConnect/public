@@ -5,6 +5,7 @@ parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
 order: 11
+published: false
 ---
 
 # CalConnect PUSH Technical Committee

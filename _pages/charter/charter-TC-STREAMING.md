@@ -5,6 +5,7 @@ parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
 order: 13
+published: false
 ---
 
 # CalConnect STREAMING Technical Committee
