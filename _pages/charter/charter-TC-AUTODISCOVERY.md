@@ -5,6 +5,7 @@ parent: "/charter"
 mainParent: "charter"
 parents: "charter:/charter"
 order: 3
+published: false
 ---
 
 # CalConnect AUTODISCOVERY Technical Committee
