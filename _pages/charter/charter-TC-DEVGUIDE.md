@@ -63,7 +63,7 @@ We're not developing new protocol elements or APIs, this work is just describing
 | February 2021 | adding information about jscalendar |
 | March 2021 | adding iMIP / calspam content |
 | May 2021 | adding JsCalendar content |
-| September 2021 | created info about structure of content [devguide|public|www].calconnect.org |
+| September 2021 | created info about structure of content devguide/public/www.calconnect.org |
 
 ## DEVGUIDE Mailing List
 
