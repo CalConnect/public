@@ -62,6 +62,8 @@ We're not developing new protocol elements or APIs, this work is just describing
 | September 2020 | adding more content about tzdist |
 | February 2021 | adding information about jscalendar |
 | March 2021 | adding iMIP / calspam content |
+| May 2021 | adding JsCalendar content |
+| September 2021 | created info about structure of content [devguide|public|www].calconnect.org |
 
 ## DEVGUIDE Mailing List
 
